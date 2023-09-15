@@ -1,0 +1,2 @@
+model_checkpoint_path: "cd_encoder_01"
+all_model_checkpoint_paths: "cd_encoder_01"
