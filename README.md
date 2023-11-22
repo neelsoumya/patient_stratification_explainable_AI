@@ -32,7 +32,7 @@ The following files were created from scratch for facilitation:
 ## Installation
 
 ```r
-pip install -r requirments.txt
+pip install -r requirements.txt
 ```
 
 ## Manuscript
